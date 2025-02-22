@@ -11,4 +11,11 @@ my name is **xten**🌻! i'm a 3rd year computer engineering student at feu inst
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![xtenlei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtenlei)](https://github.com/xtenlei/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtenlei&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xtenlei&hide_progress=true)
+
 -->
