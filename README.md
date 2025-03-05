@@ -1,14 +1,14 @@
-# Hi there! I'm xten! 👋 🎉
+# hii! i'm xten! 👋 ^w^
 
-Welcome to my GitHub profile! My name is **xten**🌻 and I'm a 3rd-year Computer Engineering student at FEU Institute of Technology.
+my name is **xten**🌻! i'm a 3rd year computer engineering student at feu institute of technology~
 
-### About Me
+### about me
 
 - 🎨 Designer from the Philippines
 - 🔭 Currently working on my first website and sensor tech
 - 📫 Reach me at: [cristendtolentino@gmail.com](mailto:cristendtolentino@gmail.com)
 
-### Let's Connect!
+### let's connect~
 
 <p align="left">
   <a href="https://www.linkedin.com/in/cristentolentino">
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! My name is **xten**🌻 and I'm a 3rd-year Compute
   </a>
 </p>
 
-### Current Learning 🤓
+### currently studying 🤓
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! My name is **xten**🌻 and I'm a 3rd-year Compute
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45"/>
 </p>
 
-### Design Tools 🖌️
+### design tools 🖌️
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="45" height="45"/>
